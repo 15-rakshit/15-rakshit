@@ -5,7 +5,7 @@
 
 - 🌱 **I’m currently diving deeper into Hibernate for database management and enhancing my knowledge in cloud security to strengthen my expertise in secure, scalable backend systems.**
 
-- 💬 **Ask me about Java backend development, quality assurance, or cloud security — let's dive into the details!**
+- 💬 **Ask me about Java backend development, quality assurance, or cloud security.**
 
 - 📫 How to reach me **rakshitc579@gmail.com**
 
