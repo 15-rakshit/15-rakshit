@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/15_rakshit" target="blank"><img src="https://img.shields.io/twitter/follow/15_rakshit?logo=twitter&style=for-the-badge" alt="15_rakshit" /></a> </p>
 
-- 🌱 I’m currently **diving deeper into Hibernate for database management and enhancing my knowledge in cloud security to strengthen my expertise in secure, scalable backend systems.**
+- 💬 **Ask me about Java backend development, quality assurance, or cloud security—let's dive into the details!**
 
-- 💬 Ask me about **Java backend development, quality assurance, or cloud security—let's dive into the details!**
+- 🌱 **I’m currently diving deeper into Hibernate for database management and enhancing my knowledge in cloud security to strengthen my expertise in secure, scalable backend systems.**
 
 - 📫 How to reach me **rakshitc579@gmail.com**
 
-- ⚽️ > 🌏 **Força Barça 🔵🔴**
+- **Avid football enthusiast⚽️ > 🌏 Força Barça 🔵🔴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
