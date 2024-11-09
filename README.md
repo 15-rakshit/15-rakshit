@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rakshitc579@gmail.com**
 
-- **Avid football enthusiast ⚽️ > 🌏 Força Barça 🔵🔴**
+- **⚽️ > 🌏 Avid football enthusiast! Força Barça 🔵🔴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
